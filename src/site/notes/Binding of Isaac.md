@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/binding-of-isaac/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-
+[[Home|Home]]
 ### The Forgotten/The Soul - Normal
 ***Unlocking:***
 * *Defeat B1 boss under 1min; place bomb in start room & pickup broken shovel piece*
