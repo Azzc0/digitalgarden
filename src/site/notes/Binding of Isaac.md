@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/binding-of-isaac/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/binding-of-isaac/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
