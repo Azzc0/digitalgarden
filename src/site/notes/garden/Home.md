@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/garden/home/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/garden/home/","tags":"gardenEntry"}
 ---
 
-[[Binding of Isaac|Binding of Isaac]]
-# Homepage
-Some notes I find more noteworthy will be uploaded to this site. I will add links to relavant sections here.
+# DST Boss Rush
+Some notes here for our plan
