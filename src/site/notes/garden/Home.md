@@ -7,13 +7,8 @@ Some notes here for boss run ejoyers.
 
 # Players
 * Azzco - Wickerbottom
-	* Grumblebees
-	* Lunar grimoire
-	* Horticulture
 * Golden - Wanda
-	* Alarming Clock
 * Ane - WX
-	* 
 * Logz - Maxwell
 * Squall - Wendy
 
@@ -21,20 +16,18 @@ Some notes here for boss run ejoyers.
 * Archives - Azzco
 * Rush Ruins - Golden & Ane
 * Assemble shadow setpieces - Logz
-* Assemble base
+* Assemble base - Near water, with some close connections
 	* Garden - Pumpkin for canary, potato - Azzco
+	* 6 crockpot kitchen
 
 
 ## Winter
 * Walrus hunt
 * Shadow Setpieces
-* Ancient Fuelweaver
+* Ancient Fuelweaver (Voidwalk with gates and walls)
 	* Nightmare Amulet
 	* Starcaller
 	* Atrium Heart
-	* Voidwalk
-		* 2x Fencegates
-		* 2x Walls
 * Hostile flares - Squall
 * Deerclops
 * Look for pearl (Cold insulation)
