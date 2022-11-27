@@ -3,4 +3,9 @@
 ---
 
 # DST Boss Rush
-Some notes here for our plan
+Some notes here for boss run ejoyers.
+
+## Autumn
+* Rush Ruins
+* Assemble shadow setpieces
+* 
