@@ -6,44 +6,72 @@
 Some notes here for boss run ejoyers.
 
 # Players
-* Azzco - Wickerbottom
-* Golden - Wanda
-* Ane - WX
-* Logz - Maxwell
-* Squall - Wendy
 
-## Autumn
-* Archives - Azzco
-* Rush Ruins - Golden & Ane
-* Assemble shadow setpieces - Logz
-* Assemble base - Near water, with some close connections
-	* Garden - Pumpkin for canary, potato - Azzco
+## Autumn 
+### Tasks
+* Archives (Optional)
+	* Wickerbottom Full Moon
+	* Wanda Thulecite Fragments
+	* Living logs from Gnomes in grotto
+* Ruins Rush
+	* Starcaller Staves
+* Assemble shadow setpieces
+* Assemble base
+	* Near water, with some close connections/Oasis
+	* Garden - Pumpkin for canary, potato
 	* 6 crockpot kitchen
-
-
+### Expected bosses
+* Ancient Guardian
+* Dragonfly
+* Bee Queen
+* Eye of Terror
 ## Winter
 * Walrus hunt
 * Shadow Setpieces
 * Ancient Fuelweaver (Voidwalk with gates and walls)
-	* Nightmare Amulet
-	* Starcaller
-	* Atrium Heart
-* Hostile flares - Squall
+	* Remember: Nightmare Amulet, Starcaller, Atrium Heart
+* Lightning Rod
 * Deerclops
-* Look for pearl (Cold insulation)
+	* Hostile flares after
+* Moonstone Event
+* Look for pearl (Cold insulation, body slot)
+
+### Expected bosses
+* Deerclops
+* Twins of Terror
+* Ancient Fuelweaver
+
   
 ## Spring
-* Pearl tasks
-	* Fishing
-	* 5x Carpet floor
 * MooseGoose
-
+* Pearl
+### Pearl tasks
+* 8 Berry bushes
+* 10 Flowers planted
+* Rain gear
+* Dryracks
+* Fishing
+* Salvage
+* Hermit Home
+	* *10x Cookie Cutter*
+	* *10x Boards*
+	* *Firefly*
+	* *10x Marble*
+	* *5x Cut Stone*
+	* *3x Lightbulb*
+	* *10x Moonrock*
+	* *5x Rope*
+	* *5x Carpet floor*
+### Expected Bosses
+* Moose/Goose
+* Bee queen
+* 
 ## Summer
-* Flower sallad for Pearl
+* Flower sallad for Pearl *(If insulation was not given in winter)*
 * Antlion
 * Toadstool
-	* Canaries
-
+	* Canary for Misery
+* Crabking
 
 # Random notes
 
