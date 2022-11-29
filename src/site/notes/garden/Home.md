@@ -5,7 +5,14 @@
 # DST Boss Rush
 Some notes here for boss run ejoyers.
 
-# Players
+# Seeds
+Prechecked for 4 "walrus_camp" and "sapling":
+- [x] Dapper Drake
+- [x] EdgyEft
+- [x] FeistyFawn
+- [x] GutsyGibbon
+- [ ] HardyHeron
+- [ ] IntrepidIbex
 
 ## Autumn 
 ### Tasks
