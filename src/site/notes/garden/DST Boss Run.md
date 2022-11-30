@@ -3,10 +3,10 @@
 ---
 
 # DST Boss Rush
-Some notes here for boss run ejoyers.
+Some notes here for the group. We try to beat all bosses in DST, before day 100 is almost expected.
 
 # Seeds
-Prechecked for 4 "walrus_camp" and "sapling":
+We precheck seeds for worldgen, we want 4 walrus camps at the very least. See [[Seeds\|Seeds]] for a larger list.
 - [x] Dapper Drake
 - [x] EdgyEft
 - [x] FeistyFawn
@@ -15,45 +15,24 @@ Prechecked for 4 "walrus_camp" and "sapling":
 - [x] IntrepidIbex ✅ 2022-11-30
 	*Last saved as DaftDuck 2022-11-30*
 
+# Todos:
+
 ## Autumn 
 ### Tasks
-* Archives (Optional)
-> [!Info]-
-	Wickerbottom Full Moon
-	Wanda Thulecite Fragments
-	Living logs from Gnomes in grotto
 * Ruins Rush
-	* Starcaller Staves
-* Assemble shadow setpieces
-* Assemble base
-	* Near water, with some close connections/Oasis
-	* Garden - Pumpkin for canary, potato
-	* 6 crockpot kitchen
-### Expected bosses
-* Ancient Guardian
-* Dragonfly
-* Bee Queen
-* Eye of Terror
-## Winter
-* Walrus hunt
+	Starcaller staves, lazy explorer
 * Shadow Setpieces
-* Ancient Fuelweaver (Voidwalk with gates and walls)
-	* Remember: Nightmare Amulet, Starcaller, Atrium Heart
-* Lightning Rod
-* Deerclops
-	* Hostile flares after
-* Moonstone Event
-* Look for pearl (Cold insulation, body slot)
 
-### Expected bosses
-* Deerclops
-* Twins of Terror
+
+## Winter
+* Atrium Heart
 * Ancient Fuelweaver
+	*Remember: Nightmare Amulet, Starcaller, Atrium Heart*
+* Moonstone Event 
 
-  
 ## Spring
 * MooseGoose
-* Pearl
+* [[Pearl\|Pearl]]
 ### Pearl tasks
 * 8 Berry bushes
 * 10 Flowers planted
@@ -71,10 +50,7 @@ Prechecked for 4 "walrus_camp" and "sapling":
 	* *10x Moonrock*
 	* *5x Rope*
 	* *5x Carpet floor*
-### Expected Bosses
-* Moose/Goose
-* Bee queen
-* 
+
 ## Summer
 * Flower sallad for Pearl *(If insulation was not given in winter)*
 * Antlion
