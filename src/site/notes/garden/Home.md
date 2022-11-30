@@ -11,8 +11,8 @@ Prechecked for 4 "walrus_camp" and "sapling":
 - [x] EdgyEft
 - [x] FeistyFawn
 - [x] GutsyGibbon
-- [ ] HardyHeron
-- [ ] IntrepidIbex
+- [x] HardyHeron 
+- [x] IntrepidIbex ✅ 2022-11-30
 
 ## Autumn 
 ### Tasks
