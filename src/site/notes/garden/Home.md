@@ -18,9 +18,10 @@ Prechecked for 4 "walrus_camp" and "sapling":
 ## Autumn 
 ### Tasks
 * Archives (Optional)
-	* Wickerbottom Full Moon
-	* Wanda Thulecite Fragments
-	* Living logs from Gnomes in grotto
+> [!Info]-
+	Wickerbottom Full Moon
+	Wanda Thulecite Fragments
+	Living logs from Gnomes in grotto
 * Ruins Rush
 	* Starcaller Staves
 * Assemble shadow setpieces
