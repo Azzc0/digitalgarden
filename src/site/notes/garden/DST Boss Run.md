@@ -38,23 +38,7 @@ We precheck seeds for worldgen, we want 4 walrus camps at the very least. See [[
 ## Spring
 * MooseGoose
 * [[Pearl\|Pearl]]
-### Pearl tasks
-* 8 Berry bushes
-* 10 Flowers planted
-* Rain gear
-* Dryracks
-* Fishing
-* Salvage
-* Hermit Home
-	* *10x Cookie Cutter*
-	* *10x Boards*
-	* *Firefly*
-	* *10x Marble*
-	* *5x Cut Stone*
-	* *3x Lightbulb*
-	* *10x Moonrock*
-	* *5x Rope*
-	* *5x Carpet floor*
+
 
 ## Summer
 * Flower sallad for Pearl *(If insulation was not given in winter)*
