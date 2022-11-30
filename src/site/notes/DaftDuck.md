@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/daft-duck/"}
 ---
 
+[[garden/DST Boss Run\|DST Boss Run]]
 Forest seed: `1669215809`
 Cave seed: `1669215809`
 
