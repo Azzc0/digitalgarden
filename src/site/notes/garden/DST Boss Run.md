@@ -5,6 +5,11 @@
 # DST Boss Rush
 Some notes here for the group. We try to beat all bosses in DST, before day 100 is almost expected.
 
+# Runs
+[[DaftDuck\|DaftDuck]]
+[[FetidFlea\|FetidFlea]]
+[[MankyMallard\|MankyMallard]]
+
 # Seeds
 We precheck seeds for worldgen, we want 4 walrus camps at the very least. See [[Seeds\|Seeds]] for a larger list.
 - [x] Dapper Drake
