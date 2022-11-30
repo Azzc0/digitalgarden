@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/seeds/"}
 ---
 
+[[garden/DST Boss Run\|DST Boss Run]]
 Worldseeds of note and some description of them
 
 ## IntrepidIbex
