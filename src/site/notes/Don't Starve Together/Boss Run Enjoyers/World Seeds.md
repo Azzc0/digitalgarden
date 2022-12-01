@@ -11,12 +11,14 @@ Worldseeds of note and some description of them
 > Cave: `1669215809`
 > *Save generated 2022-11-27*
 
+#### Observations:
 * Triple McTusk
 * Resources, classic (regular grass, twigs and berries)
+* Walking cane boon outside blue mushroom biome.
 
 Good base location: PigKing
 	Close to Shadowsetpieces and BQ. Wormhole closeby to DF and trippletusk.
-In caves there's a walking cane by the blue mushroom biome.
+
 
 ## "JauntyJackal"
 Forest seed: `1669845164`
