@@ -5,4 +5,4 @@
 
 Some of my notes goes here.
 [[dst/Don't Starve Notes\|Don't Starve Notes]]
-[[Issues\|Issues]]
+[[issues/Excalidraw\|Excalidraw]]
