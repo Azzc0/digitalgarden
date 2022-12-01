@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/don-t-starve-together/crabby-hermit/"}
 ---
 
-[[Don't Starve Together/Boss Run Enjoyers/DST Boss Run\|DST Boss Run]]
-To get Pearl's pearl friendship needs to be increased to level 10 and her home completed. Upgrading the hermit home completely gives three levels; so 7 tasks beyond that to get Pearl's Pearl.
+To get Pearl's pearl, friendship with crabby hermit needs to be increased to level 10 and her home has to be completely upgraded. Upgrading the hermit home completely gives three levels; so 7 tasks beyond that is required.
 
 ### Pearl tasks
 * Winter insulation
