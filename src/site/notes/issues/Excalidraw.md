@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/issues/excalidraw/"}
 ---
 
-# Digital Garden
-## Codeblocks
-When adding valid obsidian style transclusion links inside codeblocks they get transcluded. Expected behaviour should be that they're just plain text, right? Below you can see an example where I had to add a space after the opening brackets. Code snippet untouched at the end [[issues/Excalidraw#Code snippet again\|#Code snippet again]].
-
 # Excalidraw rendering
 I can't get excalidraw or the exported svgs to render in the digital garden.
 Below I'm trying to transclude an excalidraw svg export and en excalidraw drawing located in my root directory, along with this note, both of which look perfectly fine in obsidian. They are called with:
