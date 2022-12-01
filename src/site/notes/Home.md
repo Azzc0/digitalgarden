@@ -6,6 +6,8 @@
 Some of my notes goes here.
 [[dst/Don't Starve Notes\|Don't Starve Notes]]
 
+Testing with LZ compression thingy
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
