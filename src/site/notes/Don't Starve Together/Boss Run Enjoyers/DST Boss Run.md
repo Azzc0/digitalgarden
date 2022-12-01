@@ -5,7 +5,7 @@
 Some notes here for the group. We try to beat all bosses in DST, before day 100 is almost expected.
 
 # Runs
-[[Don't Starve Together/Boss Run Enjoyers/DaftDuck\|DaftDuck]]
+[[Don't Starve Together/Boss Run Enjoyers/Saves/DaftDuck\|DaftDuck]]
 
 # Seeds
 Sometimes we precheck seeds on the moon server. See [[Don't Starve Together/Boss Run Enjoyers/World Seeds\|World Seeds]] for descriptions on already checked seeds as well as descriptions.
