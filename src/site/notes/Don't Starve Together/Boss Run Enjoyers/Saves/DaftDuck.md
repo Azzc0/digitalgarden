@@ -3,7 +3,7 @@
 ---
 
 # Savename: DaftDuck
-> Seed info
+> [!INFO]Seed info
 > Forest: `1669215809`
 > Cave: `1669215809`
 
