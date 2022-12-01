@@ -8,9 +8,9 @@ label > img {
   margin-left: 0;
 }
 </style>
-> 
-> Forest seed: `1669215809`
-> Cave seed: `1669215809`
+> Seed info
+> Forest: `1669215809`
+> Cave: `1669215809`
 
 *Base is located close to PK, Shadow Pieces and Bee Queen. Close by there's a wormhole that leads directly to DF with Triple tusks being close to that*
 
