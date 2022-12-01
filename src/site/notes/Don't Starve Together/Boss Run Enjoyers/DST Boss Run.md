@@ -2,20 +2,14 @@
 {"dg-publish":true,"permalink":"/don-t-starve-together/boss-run-enjoyers/dst-boss-run/"}
 ---
 
-Some notes here for the group. We try to beat all bosses in DST, before day 100 is almost expected.
+Some notes here for the group. We try to beat all bosses in Don't Starve Together.
 
-# Runs
+# Saves
 [[Don't Starve Together/Boss Run Enjoyers/Saves/DaftDuck\|DaftDuck]]
 
-# Seeds
-Sometimes we precheck seeds on the moon server. See [[Don't Starve Together/Boss Run Enjoyers/World Seeds\|World Seeds]] for descriptions on already checked seeds as well as descriptions.
-
-The one thing we really want to make sure of with these is getting a triple McTusk biome. 
-
-# Goals:
+# Seasonal Goals:
 
 ## Autumn 
-### Tasks
 * Ruins Rush
 	Starcaller staves, lazy explorer
 * Assemble Shadow Setpieces
@@ -26,13 +20,7 @@ The one thing we really want to make sure of with these is getting a triple McTu
 * Moonstone Event 
 
 ## Spring
-* Plant fig tree
-* MooseGoose
+* Prep fig tree
 * [[Don't Starve Together/Crabby Hermit\|Crabby Hermit]]
 
-
 ## Summer
-
-
-# Random notes
-
