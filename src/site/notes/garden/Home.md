@@ -6,6 +6,123 @@
 Some of my notes goes here.
 [[dst/Don't Starve Notes\|Don't Starve Notes]]
 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Text Elements
+
+# Embedded files
+b1b7320326ba08a2c613e76d99e7214900a220d9: [[garden/Pasted Image 20221201062741_225.png]]
+357843e6e9aaf53c7c43f1fa72f9c8ffeea9c5fc: [[garden/Pasted Image 20221201062801_278.png]]
+7d83b2909dc2e776d13628947b0228e7a6e73ca5: [[garden/Pasted Image 20221201062808_088.png]]
+
+%%
+# Drawing
+```compressed-json
+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
+
+RIYyBvMAN84AkaohOpmAHIA3xAA=
+```
+%%
+
+</div></div>
+
+
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
