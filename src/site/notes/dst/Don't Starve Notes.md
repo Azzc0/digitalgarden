@@ -6,7 +6,7 @@
 # Don't Starve Together
 Lately I've been playing a lot with a group "Boss Run Enjoyers" on the moon servers. Some notes specific for that server and the saves we've got over at: [[dst/bre/DST Boss Run\|DST Boss Run]]
 
-## [[dst/Farming\|Farming]]
+## [[dst/Farming Combos\|Farming Combos]]
 I found a cheat sheet that I've been going back to a lot for crop combos.
 [Autumn](https://cdn.forums.klei.com/monthly_2021_01/280113491_AutumnGiantCrops.png.10fe1d88a8406cbd77c21fd1eb488e98.png)
 [Winter](https://cdn.forums.klei.com/monthly_2021_01/106023299_WinterGiantCrops.png.992767d771ccfb8332b930f9ffd6fb46.png)
