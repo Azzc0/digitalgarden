@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/don-t-starve-together/boss-run-enjoyers/saves/daft-duck/"}
+{"dg-publish":true,"permalink":"/don-t-starve-together/boss-run-enjoyers/saves/daft-duck/","dgShowInlineTitle":false}
 ---
 
+# Savename: DaftDuck
 > Seed info
 > Forest: `1669215809`
 > Cave: `1669215809`
