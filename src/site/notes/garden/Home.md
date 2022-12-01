@@ -2,4 +2,6 @@
 {"dg-publish":true,"permalink":"/garden/home/","tags":"gardenEntry"}
 ---
 
-[[garden/DST Boss Run\|DST Boss Run]]
+
+Some of my notes goes here.
+[[Don't Starve Notes\|Don't Starve Notes]]
