@@ -20,10 +20,12 @@ Upgrade 1
 * *10x Cookie Cutter*
 * *10x Boards*
 * *Firefly*
+
 Upgrade 2
 * *10x Marble*
 * *5x Cut Stone*
 * *3x Lightbulb*
+
 Upgrade 3
 * *10x Moonrock*
 * *5x Rope*
