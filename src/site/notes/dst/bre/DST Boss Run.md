@@ -7,45 +7,33 @@ Some notes here for the group. We try to beat all bosses in DST, before day 100 
 
 # Runs
 [[dst/bre/DaftDuck\|DaftDuck]]
-[[FetidFlea\|FetidFlea]]
-[[MankyMallard\|MankyMallard]]
 
 # Seeds
-We precheck seeds for worldgen, we want 4 walrus camps at the very least. See [[Seeds\|Seeds]] for a larger list.
-- [x] Dapper Drake
-- [x] EdgyEft
-- [x] FeistyFawn
-- [x] GutsyGibbon
-- [x] HardyHeron 
-- [x] IntrepidIbex ✅ 2022-11-30
-	*Last saved as DaftDuck 2022-11-30*
+Sometimes we precheck seeds on the moon server. See [[dst/bre/World Seeds\|World Seeds]] for descriptions on already checked seeds as well as descriptions.
 
-# Todos:
+The one thing we really want to make sure of with these is getting a triple McTusk biome. 
+
+# Goals:
 
 ## Autumn 
 ### Tasks
 * Ruins Rush
 	Starcaller staves, lazy explorer
-* Shadow Setpieces
-
+* Assemble Shadow Setpieces
 
 ## Winter
-* Atrium Heart
 * Ancient Fuelweaver
 	*Remember: Nightmare Amulet, Starcaller, Atrium Heart*
 * Moonstone Event 
 
 ## Spring
+* Plant fig tree
 * MooseGoose
 * [[dst/Pearl\|Pearl]]
 
 
 ## Summer
-* Flower sallad for Pearl *(If insulation was not given in winter)*
-* Antlion
-* Toadstool
-	* Canary for Misery
-* Crabking
+
 
 # Random notes
 
