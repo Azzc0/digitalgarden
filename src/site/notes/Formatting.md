@@ -14,40 +14,37 @@ $$
 \frac{1}{2}
 $$
 # Callouts
-> [!note]-
-> 
+> [!note]- Note
 
-> [!abstract]-
+> [!abstract] Abstract
 > Aliases: summaru, tldr
 
-> [!Info]-
+> [!Info] Info
 
-> [!todo]-
+> [!todo] To-do
 
-> [!tip]-
+> [!tip] Tip
 > Aliases: hint, important
 
-> [!success]-
+> [!success] Success
 > Aliases: check, done
 
-> [!question]-
+> [!question] Question
 > Aliases: help, faq
 
-> [!warning]-
+> [!warning] Warning
 > Aliases: caution, attention
 
-> [!failure]-
+> [!failure] Failure
 > Aliases: fail, missing
 
-> [!Danger]-
+> [!Danger] Danger
 > Aliases: error
 
-> [!bug]-
-> 
+> [!bug] Bug
 
-> [!example]-
-> 
+> [!example] Example
 
-> [!quote]-
+> [!quote]- Quote
 > Aliases: cite
 
