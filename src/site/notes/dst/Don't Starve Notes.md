@@ -4,7 +4,7 @@
 
 
 # Don't Starve Together
-Lately I've been playing a lot with a group "Boss Run Enjoyers". Some notes specific for that and the saves we've got over at: [[dst/bre/DST Boss Run\|DST Boss Run]]
+Lately I've been playing a lot with a group "Boss Run Enjoyers" on the moon servers. Some notes specific for that server and the saves we've got over at: [[dst/bre/DST Boss Run\|DST Boss Run]]
 
 ## [[dst/Farming\|Farming]]
 I found a cheat sheet that I've been going back to a lot for crop combos.
