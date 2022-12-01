@@ -7,7 +7,7 @@
 > Forest: `1669215809`
 > Cave: `1669215809`
 
-*Base is located close to Pig King, Shadow Pieces and Bee Queen. Close by there's a wormhole that leads directly to DF with Triple tusks being close to that*
+*Base is located close to Pig King, Shadow Pieces and Bee Queen. Close-by there's a wormhole that leads directly to DF with Triple tusks being close to that*
 
 Saved 2022-11-31, Day 31
 ![Imgur](https://i.imgur.com/rfevG9X.jpg)
