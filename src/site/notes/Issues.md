@@ -4,7 +4,10 @@
 
 I'm having some issues with:
 Excalidraw rendering on the website se below for example:
-The file is located in the root directory and called with: `
+The file is located in the root directory and called with: 
+
+```
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 $<div class="markdown-embed-title">
@@ -299,7 +302,8 @@ $<div class="markdown-embed-title">
 %%
 
 </div></div>
-`
+
+```
 It's a simple 8 shape drawn with my mouse.
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
