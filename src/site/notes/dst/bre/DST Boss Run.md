@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/dst/bre/dst-boss-run/"}
 ---
 
-# DST Boss Rush
 Some notes here for the group. We try to beat all bosses in DST, before day 100 is almost expected.
 
 # Runs
@@ -29,7 +28,7 @@ The one thing we really want to make sure of with these is getting a triple McTu
 ## Spring
 * Plant fig tree
 * MooseGoose
-* [[dst/Pearl\|Pearl]]
+* [[dst/Crabby Hermit\|Crabby Hermit]]
 
 
 ## Summer
