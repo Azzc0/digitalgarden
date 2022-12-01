@@ -2,6 +2,13 @@
 {"dg-publish":true,"permalink":"/don-t-starve-together/boss-run-enjoyers/daft-duck/"}
 ---
 
+<style>
+label > img {
+  display: inline;
+  margin-left: 0;
+  
+}
+</style>
 [[Don't Starve Together/Boss Run Enjoyers/DST Boss Run\|DST Boss Run]]
 Forest seed: `1669215809`
 Cave seed: `1669215809`
