@@ -18,7 +18,11 @@ Good base location: PigKing
 	Close to Shadowsetpieces and BQ. Wormhole closeby to DF and trippletusk.
 
 
-## "JauntyJackal"
-Forest seed: `1669845164`
-Cave seed: `1669845163`
+## Other seeds
+> **Seed info**
+> Forest seed: `1669845164`
+> Cave seed: `1669845163`
 
+> **Seed info**
+> Forest seed: `1669840090`
+> Cave seed: `1669840087`
