@@ -3,6 +3,4 @@
 ---
 
 
-Some of my notes goes here.
-[[dst/Don't Starve Notes\|Don't Starve Notes]]
-[[issues/Excalidraw\|Excalidraw]]
+Adding various notes to my digital garden, starting out with some [[Don't Starve Together/Don't Starve Notes\|Don't Starve Together notes]] I suppose.
