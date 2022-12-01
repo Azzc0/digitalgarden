@@ -17,7 +17,7 @@ World seeds of note and some description of them, mainly checked for triple McTu
 > Pig King is a good base location, direct access to BQ, and shadow pieces. One wormhole to DF and Moonstone as well as triple tusk.
 >
 >
-> *World generated 2022-11-27 as save "IntrepidIbex"*
+> *Generated as "IntrepidIbex" 2022-11-27*
 
 # Fresh seed -  world generated
 > **Seed info**
@@ -27,8 +27,9 @@ World seeds of note and some description of them, mainly checked for triple McTu
 > 
 > **Observations:**
 > None so far
-> 
-> *World generated 2022-12-01 as save "DapperDrake"*
+>
+>
+> *Generated as "DapperDrake" 2022-12-01*
 
 # Fresh seed
 > **Seed info**
