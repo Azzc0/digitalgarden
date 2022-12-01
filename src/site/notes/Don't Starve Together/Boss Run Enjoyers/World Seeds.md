@@ -3,7 +3,7 @@
 ---
 
 [[Don't Starve Together/Boss Run Enjoyers/DST Boss Run\|DST Boss Run]]
-Worldseeds of note and some description of them
+Worldseeds of note and some description of them, mainly checked for tripple McTusk.
 
 ## "IntrepidIbex"
 > **Seed info**
