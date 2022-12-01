@@ -6,9 +6,10 @@
 Worldseeds of note and some description of them
 
 ## "IntrepidIbex"
-> Forest seed: `1669215809`
-> Cave seed: `1669215809`
-> Save generated 2022-11-27
+> **Seed info**
+> Forest: `1669215809`
+> Cave: `1669215809`
+> *Save generated 2022-11-27*
 
 * Triple McTusk
 * Resources, classic (regular grass, twigs and berries)
