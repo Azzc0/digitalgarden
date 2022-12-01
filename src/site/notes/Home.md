@@ -3,4 +3,6 @@
 ---
 
 
-Adding various notes to my digital garden, starting out with some [[Don't Starve Together/Don't Starve Notes\|Don't Starve Together notes]] I suppose.
+Adding various notes to my digital garden, starting out with some [[Don't Starve Together/Don't Starve Notes\|Don't Starve Together notes]] I suppose. 
+
+legacy excalidraw ![[Home _0.excalidraw]]
