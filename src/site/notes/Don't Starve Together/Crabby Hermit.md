@@ -16,14 +16,15 @@ To get Pearl's pearl, friendship with crabby hermit needs to be increased to lev
 * Fishing (5 different tasks all giving one level each)
 
 ### Hermit Home
+#### Upgrade 1
 * *10x Cookie Cutter*
 * *10x Boards*
 * *Firefly*
-
+#### Upgrade 2
 * *10x Marble*
 * *5x Cut Stone*
 * *3x Lightbulb*
-
+#### Upgrade 3
 * *10x Moonrock*
 * *5x Rope*
 * *5x Carpet floor*
