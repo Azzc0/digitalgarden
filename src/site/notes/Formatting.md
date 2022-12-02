@@ -14,10 +14,10 @@ $$
 \frac{1}{2}
 $$
 # Callouts
-> [!note]- Note
+> [!note] Note
 
 > [!abstract] Abstract
-> Aliases: summaru, tldr
+> Aliases: summary, tldr
 
 > [!Info] Info
 
