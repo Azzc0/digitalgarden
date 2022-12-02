@@ -3,6 +3,9 @@
 ---
 
 I only ever till 3x3 so I'm going to list crop combos that suits that setup.
+Does anything work!?
+:DST_toma_root:
+![[Toma_Root.webp]]
 
 ## Autumn
 > ### 1:1 - :DST_toma_root: Toma root ::DST_eggtato: Eggplant or Potato
