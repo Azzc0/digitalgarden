@@ -11,7 +11,7 @@ Some notes here for the group. We try to beat all bosses in Don't Starve Togethe
 
 ## Autumn 
 * Ruins Rush
-	Starcaller staves, lazy explorer
+	Starcaller staves, Deconstruction staff
 * Assemble Shadow Setpieces
 
 ## Winter
@@ -20,7 +20,7 @@ Some notes here for the group. We try to beat all bosses in Don't Starve Togethe
 * Moonstone Event 
 
 ## Spring
-* Prep fig tree
+* Prep fig tree for summer.
 * [[Don't Starve Together/Crabby Hermit\|Crabby Hermit]]
 
 ## Summer
