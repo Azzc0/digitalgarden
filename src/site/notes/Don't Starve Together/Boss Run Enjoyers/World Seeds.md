@@ -37,3 +37,17 @@ World seeds of note and some description of them, mainly checked for triple McTu
 > Cave seed: `1669840087`
 > * Triple McTusk
 > 
+
+# Fresh seed
+> **Seed info** Unsure, golden just requested seeds from the looks of it over at discord after prefab checking.
+> Forest seed: `1669942755`
+> Cave seed: `1669942755`
+> * Triple McTusk
+> 
+
+# Fresh seed
+> **Seed info** 2022-12-07
+> Forest seed: `1670391003`
+> Cave seed: `1670391002`
+> * Triple McTusk, saplings
+> 
