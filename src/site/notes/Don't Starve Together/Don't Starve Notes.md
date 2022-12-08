@@ -14,7 +14,7 @@ I found a cheat sheet that I've been going back to a lot for crop combos during 
 
 ### Crop pairs
 
-Except for Toma root and Watermelon I think the nutritional value is the same inside the pairs., it's mainly the favoured season that's different.
+Except for Toma root and Watermelon I think each crop has a counterpart with equal nutritional value. Favoured seasons vary a bit though.
 
    |  |  |F|C|M
 ---|---|---|---|---
