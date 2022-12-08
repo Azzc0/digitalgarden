@@ -13,14 +13,16 @@ I found a cheat sheet that I've been going back to a lot for crop combos during 
 [Summer](https://cdn.forums.klei.com/monthly_2021_01/1123612404_SummerGiantCrops.png.657311be138dcb409ae9f5421e49517a.png)
 
 ### Crop pairs
-   |      
----|---
-Toma root|Watermelon
-Potato|Eggplant
-Corn|Asparagus
-Dragonfruit|Pepper
-Carrot|Pumpkin
-Onion|Pomegranate
-Garlic|Durian
 
-Except for Toma root and Watermelon I think the nutritional value is the same inside the pairs.
+Except for Toma root and Watermelon I think the nutritional value is the same inside the pairs., it's mainly the favoured season that's different.
+
+   |  |  |F|C|M
+---|---|---|---|---
+Toma root|   |-2|-2|4
+Carrot|Pumpkin|-4|2|2
+Corn|Asparagus|2|-4|2
+Potato|Eggplant|2|2|-4
+Watermelon|   |4|-2|-2
+Onion|Pomegranate|-8|4|4
+Garlic|Durian|4|-8|4
+Dragonfruit|Pepper|4|4|-8
