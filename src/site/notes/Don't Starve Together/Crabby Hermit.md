@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/don-t-starve-together/crabby-hermit/"}
 ---
 
-To get Pearl's pearl, friendship with crabby hermit needs to be increased to level 10 and her home has to be completely upgraded. Upgrading the hermit home completely gives three levels; so 7 tasks beyond that is required.
+To get Pearl's pearl, friendship with the crabby hermit needs to be increased to level 10 and her home has to be completely upgraded. Upgrading the hermit home completely gives three levels; so 7 tasks beyond that is required.
 
 ### Pearl tasks
 * Winter insulation
