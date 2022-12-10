@@ -11,9 +11,9 @@ Seeds generated on  the Moon [EU] servers.
 > Forest seed: `1670603919`
 > Cave seed: `1670603919`
 
-**Prefab** | **Count** |   
+**Prefab** | **Count** 
 ---|---|---
-walrus_camp| 4| 
+walrus_camp| 4 
 sapling|927
 grass|354
 berrybush_juicy|0
