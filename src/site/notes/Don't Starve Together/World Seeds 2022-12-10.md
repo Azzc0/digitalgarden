@@ -22,8 +22,8 @@ grassgekko| 166
 berrybush_juicy| 0
 livingtree|3
 
-## Seed: 2
-> **Seed info**
+## Seed: 2 - GutsyGibbon
+> **Seed info** - Generated as GutsyGibbon 2022-12-10
 > Forest seed: `1670626788`
 > Cave seed: `1670626787`
 
