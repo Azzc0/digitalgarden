@@ -20,4 +20,5 @@ Going with the info box for this one, the style could be global but I think I'll
 > 	"Berrybushes" : 256
 > 	"Juicy Berrybushes" :  0
 > ```
+> Dunno how to make it prett
 
