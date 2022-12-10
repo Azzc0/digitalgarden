@@ -3,7 +3,7 @@
 ---
 
 
-Lately I've been playing a lot with a group "Boss Run Enjoyers" on the moon servers. Some notes specific for that server and the saves we've got over at: [[Don't Starve Together/Boss Run Enjoyers/DST Boss Run\|DST Boss Run]]
+Just some notes to fall back to that might be a bit harder to remember.
 
 ## [[Farming Combos\|Farming Combos]]
 I found a cheat sheet that I've been going back to a lot for crop combos during the different seasons.
@@ -14,7 +14,7 @@ I found a cheat sheet that I've been going back to a lot for crop combos during 
 
 ### Crop pairs
 
-Except for Toma root and Watermelon I think each crop has a counterpart with equal nutritional value. Favoured seasons vary a bit
+Except for Toma root and Watermelon I think each crop has a counterpart with equal nutritional value. Favoured seasons vary a bit though.
 
    |  |  |F|C|M
 ---|---|---|---|---
