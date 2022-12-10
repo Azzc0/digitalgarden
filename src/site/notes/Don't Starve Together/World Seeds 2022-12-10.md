@@ -3,6 +3,7 @@
 ---
 
 Seeds generated on  the Moon [EU] servers.
+
 # 2022-12-10
 *The following seeds have been checked for triple McTusks with:*
 `*prefab walrus_camp sapling grass grassgekko berrybush_juicy livingtree lightninggoatherd`
@@ -52,8 +53,8 @@ berrybush_juicy   |0
 livingtree        |0
 lightninggoatherd |0
 
-## Seed: 4
-> **Seed info**
+## Seed: 4 - FeistyFawn
+> **Seed info** - Generated as FiestyFawn 2022-12-10
 > Forest seed: `1670662794`
 > Cave seed: `1670662793`
 
@@ -97,7 +98,7 @@ berrybush_juicy   |0
 livingtree        | 1
 lightninggoatherd |0
 
-## Seed: 7
+## Seed: 7 - EdgyEft
 > **Seed info** - Generated as EdgyEft 2022-12-10
 > Forest seed: `1670663610`
 > Cave seed: `1670663609`
