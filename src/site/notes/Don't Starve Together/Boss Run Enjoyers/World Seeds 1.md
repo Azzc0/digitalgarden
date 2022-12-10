@@ -5,6 +5,7 @@
 *The following seeds have been checked for triple McTusks with:*
 `*prefab walrus_camp sapling grass berrybush_juicy`
 # 2022-12-09
+<div>
 ## Seed: 1
 > **Seed info**
 > Forest seed: `1670603919`
@@ -19,6 +20,7 @@ berrybush_juicy|0
 *Grass gekkos?*
 
 
+</div>
 ## Seed: 2
 > **Seed info**
 > Forest seed: `1670604793`
