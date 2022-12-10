@@ -14,7 +14,7 @@ I found a cheat sheet that I've been going back to a lot for crop combos during 
 
 ### Crop pairs
 
-Except for Toma root and Watermelon I think each crop has a counterpart with equal nutritional value. Favoured seasons vary a bit though.
+Except for Toma root and Watermelon I think each crop has a counterpart with equal nutritional value. Favoured seasons vary a bit
 
    |  |  |F|C|M
 ---|---|---|---|---
