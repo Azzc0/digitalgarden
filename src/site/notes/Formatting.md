@@ -69,3 +69,22 @@ pie showData
 > 	"Iron" :  5
 > ```
 
+# Latex testing
+## Bar charts
+$$
+\documentclass[varwidth=true, border=2pt]{standalone}
+
+\usepackage{bchart}
+
+\begin{document}
+    \begin{bchart}[step=2,max=10]
+        \bcbar{3.4}
+            \smallskip
+        \bcbar{5.6}
+            \medskip
+        \bcbar{7.2}
+            \bigskip
+        \bcbar{9.9}
+    \end{bchart}
+\end{document}
+$$$
