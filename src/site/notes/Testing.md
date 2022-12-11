@@ -10,9 +10,10 @@ Going with the info box for this one, the style could be global but I think I'll
 >**Seeds** (forest/cave): `1670663778` / `1670663777`
 >
 >**Prefabs**
-> Walrus Camps: 4⭐⭐⭐⭐
-> Totally Normal Trees: 3
+> Walrus camps: 4
+> Totally normal trees: 3
 > Goat herds: 2
 > Saplings: 1003
-> Grass Tuffts: 571
-> Grass Gekkos: 124
+> Twiggy trees:
+> Grass tuffts: 571
+> Grass gekkos: 124
