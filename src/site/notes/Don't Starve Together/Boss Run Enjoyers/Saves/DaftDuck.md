@@ -8,6 +8,12 @@
 > Cave: `1669215809`
 
 *Base is located close to Pig King, Shadow Pieces and Bee Queen. Close-by there's a wormhole that leads directly to DF with Triple tusks being close to that*
+Around the shadow pieces setpiece one can find in close proximity:
+- Pig King
+- Bee Queen
+- Wormhole to Dragonfly
+- Small swamp
+Moonstone is located next to Dragonfly and triple McTusk biome.
 
 Saved 2022-11-31, Day 31
 ![Imgur](https://i.imgur.com/rfevG9X.jpg)
