@@ -13,7 +13,7 @@
 
 ## Players
 A - Maxwell ![Maxwell|30](https://static.wikia.nocookie.net/dont-starve-game/images/9/9f/Waxwell_Portrait.png/revision/latest?cb=20210912043945)
-Azz - Wickerbottom ![[Wickerbottom_Portrait.webp|30]]
+Azz - Wickerbottom ![[Wickerbottom_Portrait.webp]]
 Gold - Wanda ![[Wanda_Portrait.webp|30]]
 Snail - Wormwood ![[Wormwood_Portrait.webp|30]]
 Squall - Wendy ![[Wendy_Portrait.webp|30]]
