@@ -6,7 +6,7 @@ Going to try and make seeds into admonition type boxes that can expand. Going to
 
 Going with the info box for this one, the style could be global but I think I'll stick to page specific for now.
 
->[!info]+ [[^]Seed: 1
+>[!info]Seed: 1
 >**Seeds** (forest/cave): `1670663778` / `1670663777`
 >
 >**Prefabs**
@@ -17,7 +17,7 @@ Going with the info box for this one, the style could be global but I think I'll
 > Twiggy trees:
 > Grass tufts: 571
 > Grass gekkos: 124
-> ---
+> 
 > **Observations:**
 
 <div class="callout-info admonition admonition-example admonition-plugin">
