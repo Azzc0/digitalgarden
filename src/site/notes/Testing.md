@@ -6,7 +6,7 @@ Going to try and make seeds into admonition type boxes that can expand. Going to
 
 Going with the info box for this one, the style could be global but I think I'll stick to page specific for now.
 
->[!info]+ Seed: 1
+>[!info]+ [[^]Seed: 1
 >**Seeds** (forest/cave): `1670663778` / `1670663777`
 >
 >**Prefabs**
@@ -19,3 +19,17 @@ Going with the info box for this one, the style could be global but I think I'll
 > Grass gekkos: 124
 > ---
 > **Observations:**
+
+
+<details><summary><div class="admonition-title">Seed: 1<br></div></summary>
+<strong>Seeds</strong> (forest/cave): <code>1670663778</code> / <code>1670663777</code></p>
+<h2 id="strong-prefabs-strong-br-walrus-camps-4-br-totally-normal-trees-3-br-goat-herds-2-br-saplings-1003-br-twiggy-trees-br-grass-tufts-571-br-grass-gekkos-124"><strong>Prefabs</strong><br>
+Walrus camps: 4<br>
+Totally normal trees: 3<br>
+Goat herds: 2<br>
+Saplings: 1003<br>
+Twiggy trees:<br>
+Grass tufts: 571<br>
+Grass gekkos: 124</h2>
+<p><strong>Observations:</strong></p>
+</details>
