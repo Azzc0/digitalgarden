@@ -6,19 +6,18 @@
 > [!info] 
 > **Seeds (Forest/Caves):** `1670626788` / `1670626787`
 > **Savedate:** 2022-12-11
-> **Day (Season):** 36 (Spring)
+> **Day (Season):** 42 (Spring)
 
 *Description of the world state*
 ![Screenshot](https://i.imgur.com/5E94HDu.jpg)
 
 ## Players
 A - Maxwell ![Maxwell|30](https://static.wikia.nocookie.net/dont-starve-game/images/9/9f/Waxwell_Portrait.png/revision/latest?cb=20210912043945)
-Azz - Wickerbottom![Wickerbottom|30](https://static.wikia.nocookie.net/dont-starve-game/images/f/f8/Wickerbottom_Portrait.png/revision/latest?cb=20210912044309)
-Gold - Wanda![Wanda|30](https://static.wikia.nocookie.net/dont-starve-game/images/1/17/Wanda_Portrait.png/revision/latest?cb=20210912045238)
-Snail - Wormwood ![Wormwood|30](https://static.wikia.nocookie.net/dont-starve-game/images/0/00/Wormwood_Portrait.png/revision/latest?cb=20210912044912)
-Squall - Wendy![Wendy|30](https://static.wikia.nocookie.net/dont-starve-game/images/f/fd/Wendy_Portrait.png/revision/latest?cb=20210912044023)
-Derpyfish - Wortox
-
+Azz - Wickerbottom ![[Wickerbottom_Portrait.webp|30]]
+Gold - Wanda ![[Wanda_Portrait.webp|30]]
+Snail - Wormwood ![[Wormwood_Portrait.webp|30]]
+Squall - Wendy ![[Wendy_Portrait.webp|30]]
+Derpy - Wortox ![[Wortox_Portrait.webp|30]]
 
 ## Bosses
 <style> label > img {display: inline;margin-left: 0;} label > img:hover {transform: scale(3);}</style>
