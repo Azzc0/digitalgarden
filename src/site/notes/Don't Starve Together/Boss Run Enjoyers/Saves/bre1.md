@@ -12,12 +12,12 @@
 ![Screenshot](https://i.imgur.com/5E94HDu.jpg)
 
 ## Players
-A - Maxwell ![Maxwell|30](https://static.wikia.nocookie.net/dont-starve-game/images/9/9f/Waxwell_Portrait.png/revision/latest?cb=20210912043945)
-Azz - Wickerbottom ![[Wickerbottom_Portrait.webp]]
-Gold - Wanda ![[Wanda_Portrait.webp|30]]
-Snail - Wormwood ![[Wormwood_Portrait.webp|30]]
-Squall - Wendy ![[Wendy_Portrait.webp|30]]
-Derpy - Wortox ![[Wortox_Portrait.webp|30]]
+A - Maxwell 
+Azz - Wickerbottom 
+Gold - Wanda 
+Snail - Wormwood 
+Squall - Wendy 
+Derpy - Wortox 
 
 ## Bosses
 <style> label > img {display: inline;margin-left: 0;} label > img:hover {transform: scale(3);}</style>
