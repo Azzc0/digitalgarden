@@ -4,9 +4,9 @@
 
 
 <style>
-.collapsible,.markdown-embed,h2{display:hidden;background-color:rgba(0,184,212,.1)}.markdown-embed{border-style:none;box-sizing:border-box;color:#bebebe;color-scheme:dark;font-family:"??","??","??","??",Rubik,"Glow Sans SC",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji",sans-serif,ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Microsoft YaHei Light",sans-serif;font-size:22px;font-weight:450;line-height:33px;margin:-20px 0 22px;mix-blend-mode:lighten;overflow-wrap:break-word;overflow-x:hidden;overflow-y:hidden;scrollbar-color:rgba(255,255,255,0.1) rgba(255,255,255,0.05);scrollbar-width:thin;text-rendering:optimizelegibility}.collapsible::before{content:"🗒️ "}.collapsible::after{content:' +'}.active::after,.collapsible{content:' −'}ul li:not(.task-list-item)::before{content:''}ul{columns:2;margin-left:-15px}
+.collapsible,.markdown-embed,h2{background-color:rgba(0,184,212,.1)}.markdown-embed{display:hidden;border-style:none;box-sizing:border-box;color:#bebebe;color-scheme:dark;font-family:"??","??","??","??",Rubik,"Glow Sans SC",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji",sans-serif,ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Microsoft YaHei Light",sans-serif;font-size:22px;font-weight:450;line-height:33px;margin:-20px 0 22px;mix-blend-mode:lighten;overflow-wrap:break-word;overflow-x:hidden;overflow-y:hidden;scrollbar-color:rgba(255,255,255,0.1) rgba(255,255,255,0.05);scrollbar-width:thin;text-rendering:optimizelegibility}.collapsible::before{content:"🗒️ "}.collapsible::after{content:' +'}.active::after,.collapsible{content:' −'}ul li:not(.task-list-item)::before{content:''}ul{columns:2;margin-left:-15px}
 </style>
-Some seeds of note that have been enjoyable.now with more collapse
+Some seeds of note that have been enjoyable.now with even more collapse
 <h2 class="collapsible">DaftDuck</h2>
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
