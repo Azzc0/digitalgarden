@@ -48,7 +48,7 @@ Collapsible with title intact.
 > ![Forest](https://i.imgur.com/5E94HDu.jpg)
 > ![Cave](https://i.imgur.com/5E94HDu.jpg)
 
-# Transclusion
+## Transclusion
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
