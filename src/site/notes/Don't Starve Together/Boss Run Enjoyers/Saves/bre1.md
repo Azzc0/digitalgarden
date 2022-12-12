@@ -16,6 +16,8 @@ Derpy | ![wortox.png](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYA
 > **Seed (Caves):** `1670626787`
 > **Savedate:** 2022-12-11
 > **Day:** 42 (Spring)
+> **Boss progress**
+> <progress value='9' max='16'></progress>
 
 
 ![Screenshot](https://i.imgur.com/5E94HDu.jpg)
