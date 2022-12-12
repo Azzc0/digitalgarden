@@ -15,7 +15,8 @@ ul{
 </style>
 Some seeds of note that have been enjoyable.
 >[!example] <h2 class="collapsible">DaftDuck</h2>
-
+>
+>
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
