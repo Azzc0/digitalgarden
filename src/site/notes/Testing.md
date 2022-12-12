@@ -3,14 +3,18 @@
 ---
 
 <style>
+.active, .admonition-title:hover {
+  background-color: #555;
+}
+
 div.language-ad-example, div.callout-example{
 background-color: #1b152f;
 }
 
-/* SELECT CALLOUT CONTENT
+ SELECT CALLOUT CONTENT
 div.language-ad-example, div.callout-example :not(.admonition-title){
 display:none;
-}*/
+}
 
 ul li:not(.task-list-item)::before{
   content: '';
@@ -20,7 +24,6 @@ ul{
   columns: 2;
   margin-left: -15px;
 }
-
 </style>
 **prefab walrus_camp sapling grass grassgekko berrybush berrybush_juicy livingtree lightninggoatherd cane*
 
@@ -53,7 +56,7 @@ var i;
 for (i = 0; i < coll.length; i++) {
   coll[i].addEventListener("click", function() {
     this.classList.toggle("active");
-    var content = this.nextElementSibling;
+    var content = this.nextElementSiblings;
     if (content.style.display === "block") {
       content.style.display = "none";
     } else {
