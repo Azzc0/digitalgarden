@@ -48,7 +48,7 @@ Collapsible with title intact.
 > ![Forest](https://i.imgur.com/5E94HDu.jpg)
 > ![Cave](https://i.imgur.com/5E94HDu.jpg)
 
-<button type="button" class="collapsible">Open Section 1</button>
+<button type="button" class="collapsibl">Open Section 1</button>
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -77,7 +77,7 @@ Seed #
 
 
 <script>
-var coll = document.getElementsByClassName("collapsible");
+var coll = document.getElementsByClassName("collapsibl");
 var i;
 
 for (i = 0; i < coll.length; i++) {
