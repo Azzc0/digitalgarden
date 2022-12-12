@@ -56,11 +56,11 @@ var i;
 for (i = 0; i < coll.length; i++) {
   coll[i].addEventListener("click", function() {
     this.classList.toggle("active");
-    var content = this.nextElementSiblings;
-    if (content.style.display === "block") {
+    var content = this.childNodes;
+    if (content.style.display === "normal") {
       content.style.display = "none";
     } else {
-      content.style.display = "block";
+      content.style.display = "normal";
     }
   });
 }
