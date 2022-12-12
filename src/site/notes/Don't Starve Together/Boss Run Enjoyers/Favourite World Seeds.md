@@ -49,8 +49,12 @@ Walking cane boon in the caves; blue mushroom forest entrance.*
 
 </div></div>
 
+>
 
 
+## Header
+>[!example] Heading
+>
 <details data-callout-metadata="" data-callout-fold="-" data-callout="info" class="callout is-collapsible"><summary class="callout-title"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-info"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg></div><div class="callout-title-inner">DaftDuck (2022-11-27)</div><div class="callout-fold"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg></div></summary><div class="callout-content" style="">
 <p><strong>Seeds</strong> (forest/cave): <code>1669215809</code> / <code>1669215809</code></p>
 <p><strong>Prefabs</strong><br>
