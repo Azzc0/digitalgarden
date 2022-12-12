@@ -8,12 +8,13 @@ Some notes here for the group. We try to beat all bosses in Don't Starve Togethe
 [[Don't Starve Together/Boss Run Enjoyers/Saves/DaftDuck\|Don't Starve Together/Boss Run Enjoyers/Saves/DaftDuck]]
 
 # Mods
-Some mods we tend to use on the servers:
+We tend to use this mod alot.
 - [Environment Pinger](https://steamcommunity.com/sharedfiles/filedetails/?id=2525858933) - Allows us to share locations of objects with one another.
-- 
 
 
 # Seasonal Goals
+
+
 
 ## Autumn 
 * Ruins Rush
