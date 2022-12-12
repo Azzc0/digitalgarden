@@ -4,19 +4,6 @@
 
 
 <style>
-.active, .admonition-title:hover {
-  background-color: #555;
-}
-
-div.language-ad-example, div.callout-example{
-background-color: #1b152f;
-}
-
- SELECT CALLOUT CONTENT
-div.language-ad-example, div.callout-example :not(.admonition-title){
-display:none;
-}
-
 ul li:not(.task-list-item)::before{
   content: '';
 }
