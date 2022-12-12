@@ -3,6 +3,9 @@
 ---
 
 <style>
+.callout-example{
+background-color: #1b152f;
+}
 ul li:not(.task-list-item)::before{
   content: '';
 }
