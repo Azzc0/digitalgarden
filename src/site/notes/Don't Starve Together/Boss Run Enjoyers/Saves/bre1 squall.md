@@ -7,7 +7,7 @@
 > **Seed (Forest):** `1670626788` 
 > **Seed (Caves):** `1670626787`
 > **Savedate:** 2022-12-12
-> **Day:** 56 (Spring)
+> **Day:** 56 (Summer 1/15)
 > 
 > **Boss progress**
 > <progress value='9' max='16'></progress>
