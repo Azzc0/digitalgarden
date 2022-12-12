@@ -4,6 +4,7 @@
 
 Seeds generated on  the Moon [EU] servers.
 
+Will delete these soon when we have some fresh ones
 # 2022-12-10
 *The following seeds have been checked for triple McTusks with:*
 `*prefab walrus_camp sapling grass grassgekko berrybush_juicy livingtree lightninggoatherd`
