@@ -24,7 +24,7 @@ ul{
 </style>
 **prefab walrus_camp sapling grass grassgekko berrybush berrybush_juicy livingtree lightninggoatherd cane*
 
-What we want:
+What we want:asd
 Collapsible with title intact.
 > [!example]- Seed #
 > - Seeds(forest/cave):
@@ -47,7 +47,7 @@ Collapsible with title intact.
 
 
 <script>
-var coll = document.getElementsByClassName("collapsible");
+var coll = document.getElementsByClassName("admonition-title");
 var i;
 
 for (i = 0; i < coll.length; i++) {
