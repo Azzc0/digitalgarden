@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/don-t-starve-together/boss-run-enjoyers/seeds-to-check/testing/"}
 ---
 
+<style>
+.collapsible,.markdown-embed,h2{background-color:rgba(0,184,212,.1)}.markdown-embed{border-style:none;box-sizing:border-box;color:#bebebe;color-scheme:dark;font-family:"??","??","??","??",Rubik,"Glow Sans SC",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji",sans-serif,ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Microsoft YaHei Light",sans-serif;font-size:22px;font-weight:450;line-height:33px;margin:-20px 0 22px;mix-blend-mode:lighten;overflow-wrap:break-word;overflow-x:hidden;overflow-y:hidden;scrollbar-color:rgba(255,255,255,0.1) rgba(255,255,255,0.05);scrollbar-width:thin;text-rendering:optimizelegibility}.collapsible::before{content:"🗒️ "}.collapsible::after{content:' +'}.active::after,.collapsible{content:' −'}ul li:not(.task-list-item)::before{content:''}ul{columns:2;margin-left:-15px}.internal-embed:not(.image-embed){display:none;}
+</style>
 
 - Seeds(forest/cave):
 	``1670938941` / `1670938940`
