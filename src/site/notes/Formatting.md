@@ -49,42 +49,18 @@ $$
 > Aliases: cite
 
 
-# Mermaid things
+# Excalidraw
+Let's see if this has helped any...
 
-```mermaid
-pie showData
-    title Key elements in Product X
-    "Calcium" : 42.96
-    "Potassium" : 50.05
-    "Magnesium" : 10.01
-    "Iron" :  5
-```
-> [!info] Seed:1
-> ```mermaid
-> pie showData
->     title Key elements in Product X
-> 	"Calcium" : 42.96
-> 	"Potassium" : 50.05
-> 	"Magnesium" : 10.01
-> 	"Iron" :  5
-> ```
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-# Latex testing
-## Bar charts
-$$
-\documentclass[varwidth=true, border=2pt]{standalone}
 
-\usepackage{bchart}
 
-\begin{document}
-    \begin{bchart}[step=2,max=10]
-        \bcbar{3.4}
-            \smallskip
-        \bcbar{5.6}
-            \medskip
-        \bcbar{7.2}
-            \bigskip
-        \bcbar{9.9}
-    \end{bchart}
-\end{document}
-$$$
+
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Text Elements
+
+
+</div></div>
