@@ -3,7 +3,17 @@
 ---
 
 <style>
-.collapsible,.markdown-embed,h2{background-color:rgba(0,184,212,.1)}.markdown-embed{border-style:none;box-sizing:border-box;color:#bebebe;color-scheme:dark;font-family:"??","??","??","??",Rubik,"Glow Sans SC",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji",sans-serif,ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Microsoft YaHei Light",sans-serif;font-size:22px;font-weight:450;line-height:33px;margin:-20px 0 22px;mix-blend-mode:lighten;overflow-wrap:break-word;overflow-x:hidden;overflow-y:hidden;scrollbar-color:rgba(255,255,255,0.1) rgba(255,255,255,0.05);scrollbar-width:thin;text-rendering:optimizelegibility}.collapsible::before{content:"🗒️ "}.collapsible::after{content:' +'}.active::after,.collapsible{content:' −'}ul li:not(.task-list-item)::before{content:''}ul{columns:2;margin-left:-15px}.internal-embed:not(.image-embed){display:none;}
+ul li:not(.task-list-item)::before {
+ content:''
+}
+ul {
+  columns:2;
+ margin-left:-15px
+}
+
+img {columns: 2;}
+
+ul + p { columns: 2;}
 </style>
 
 - Seeds(forest): `1670938941`
@@ -19,8 +29,8 @@
 - ![walrus_camp.png|Walrus camp](data:image/png;base64,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) Walrus camps: 4
 
 
-[![Forest](https://i.imgur.com/4djK4rzm.jpeg)](https://i.imgur.com/4djK4rz.jpeg)
-[![Cave](https://i.imgur.com/t5jFMuRm.jpeg)](https://i.imgur.com/t5jFMuR.jpeg)
+[![Forest](https://i.imgur.com/4djK4rzm.jpeg)Forest](https://i.imgur.com/4djK4rz.jpeg)
+[![Cave](https://i.imgur.com/t5jFMuRm.jpeg)Cave](https://i.imgur.com/t5jFMuR.jpeg)
 
 
 Hit Alt+R to replace with frontmatter data
