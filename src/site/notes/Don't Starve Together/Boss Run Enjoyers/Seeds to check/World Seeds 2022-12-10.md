@@ -1,7 +1,7 @@
 ---
 {"dg-publish":true,"permalink":"/don-t-starve-together/boss-run-enjoyers/seeds-to-check/world-seeds-2022-12-10/"}
 ---
-
+trap
 Seeds generated on  the Moon [EU] servers.
 
 Will delete these soon when we have some fresh ones
