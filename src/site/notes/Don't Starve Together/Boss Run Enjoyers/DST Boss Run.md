@@ -4,9 +4,6 @@
 
 Some notes here for the group. We try to beat all bosses in Don't Starve Together.
 
-# Saves
-[[Don't Starve Together/Boss Run Enjoyers/Saves/DaftDuck\|Don't Starve Together/Boss Run Enjoyers/Saves/DaftDuck]]
-
 # Mods
 We tend to use this mod alot.
 - [Environment Pinger](https://steamcommunity.com/sharedfiles/filedetails/?id=2525858933) - Allows us to share locations of objects with one another.
@@ -15,8 +12,7 @@ We tend to use this mod alot.
 # Seasonal Goals
 
 
-
-## Autumn 
+trap## Autumn 
 * Ruins Rush
 	Starcaller staves, Deconstruction staff
 * Assemble Shadow Setpieces
